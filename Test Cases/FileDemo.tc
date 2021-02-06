@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FileDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac21ab49-8df3-4715-87f6-e50307f86bfe</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Zain_\\\\OneDrive\\\\Pictures\\\\sprite.png'</defaultValue>
+      <description></description>
+      <id>3ac64ab0-4c37-4050-aaff-1d7ff76bb5f8</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d1665f6-7f2a-485a-a8a8-c482d2d8ed67</id>
+      <masked>false</masked>
+      <name>fileOutput</name>
+   </variable>
+</TestCaseEntity>
